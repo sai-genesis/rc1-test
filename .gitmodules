@@ -1,0 +1,8 @@
+[submodule "mint-blockchain-gui"]
+	path = mint-blockchain-gui
+	url = https://github.com/sai-genesis/rc1-gui-test.git
+	branch = main
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/Chia-Network/mozilla-ca.git
+        branch = main
